@@ -1,0 +1,11 @@
+python -m venv venv
+
+venv\Scripts\activate.bat
+
+
+(venv) C:\Users\......\datasc\twitterbasedresearch1>py tweetsofaperson.py @whitehatjunior
+writing to @whitehatjunior_tweets.csv
+
+
+(venv) C:\Users\......\datasc\twitterbasedresearch1>py tweetsofaperson.py iamsrk
+writing to iamsrk_tweets.csv
