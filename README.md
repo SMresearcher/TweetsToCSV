@@ -3,9 +3,9 @@ Get tweets of a person and get output as a csv file.
 
 
 Check if required modules are loaded before running the program. 
-use 
-pip list
+Use 
+'pip list'
 
-otherwise
+Otherwise
 use
-pip install <module name>
+'pip install module_name'
